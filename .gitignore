@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+
+# Build artifacts
+/ios/build/
+/ios/T/build/
+/ios/Payload/
+/android/app/build/
+
+# ios/ (removed from ignore for sync)
+# android/ (removed from ignore for sync)
+*.ipa
+*.apk
+*.log
